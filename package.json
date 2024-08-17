@@ -19,6 +19,7 @@
     "Thang Huu Vu <hi@thvu.dev>"
   ],
   "dependencies": {
+    "@auth/mongodb-adapter": "^3.4.2",
     "@auth/unstorage-adapter": "^2.0.0",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-collapsible": "^1.0.3",
